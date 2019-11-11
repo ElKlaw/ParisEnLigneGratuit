@@ -1,4 +1,4 @@
-# ParisEnLigneGratuit (PAS FONCTIONNELLE)
+# ParisEnLigneGratuit (PLUS EN LIGNE)
 Actuellement (plus référencé sur internet / BDD test)
 Applications permettant de gérer en direct des paris en ligne gratuitement (URL : http://s643692199.onlinehome.fr)
 
